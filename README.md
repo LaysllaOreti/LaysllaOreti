@@ -23,5 +23,5 @@ desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinh
 Instagram: laysllaurelio
 E-mail: laysllaoreti2006@gmail.com
 Linkedin: Layslla Eduarda Oreti
-Github: LaysllaOreti
+
 
