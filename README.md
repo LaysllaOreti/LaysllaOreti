@@ -1,10 +1,10 @@
-# Perfil profissional
+# 👩🏻‍🦰 Layslla Eduarda Oreti dos Santos
 
-### 👩🏻‍🦰 Layslla Eduarda Oreti dos Santos
+**'Aprendiz em Soluções Digitais'**
 
-Meu nome é Layslla Eduarda, tenho 18 anos e atualmente moro em Hortolândia, São Paulo e trabalho na Bosch Campinas no setor da CaP/ETS, como aprendiz em Solução Digitais.
+Meu nome é Layslla Eduarda Oreti, tenho 18 anos, atualmente moro em Hortolândia, São Paulo, e trabalho na Bosch Campinas no setor da CaP/ETS como **aprendiz de Soluções Digitais**, onde estou tendo a oportunidade de aprofundar meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
 
-#### 🎓 Formação e Experiência 
+### 🏆 Conquistas e Experiência 
 No ano de 2024, tive a honra de concluir o ensino médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC de Hortolândia, onde tive meu primeiro contato com a programação. No meu último ano 
 desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinha como intuito monitorar a contagem de repetições em exercícos de academia, onde os dados eram coletados por um ESP32C3-CAM e exibidos em um software desenvolvido por mim e meu grupo, visando prevenir as lesões por sobrecarga do músculo trabalhado.
 
