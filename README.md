@@ -56,6 +56,6 @@ desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinh
 <p align="left">
     <img 
         height="180em" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysllaOretih&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaysllaOreti&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
     />
 </p>
