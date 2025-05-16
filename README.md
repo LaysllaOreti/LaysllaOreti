@@ -17,7 +17,7 @@ desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinh
     <a href="" target="_blank">
         <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
-    <a href="[https://github.com/LeticiaRoth](https://github.com/LaysllaOreti)" target="_blank">
+    <a href="https://github.com/LaysllaOreti" target="_blank">
         <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="" target="_blank">
