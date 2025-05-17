@@ -17,7 +17,7 @@ desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinh
     <a href="https://github.com/LaysllaOreti" target="_blank">
         <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <a href="https://mail.google.com/mail/u/0" target="_blank">
         <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
