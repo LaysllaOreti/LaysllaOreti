@@ -11,16 +11,13 @@ desenvolvi o meu Trabalho de Conslusão de Curso (TCC), chamado GymTech que tinh
 ### 🌐 Contato
 
 <p align="left">
-    <a href="" target="_blank">
+    <a href="www.linkedin.com/in/layslla-oreti" target="_blank">
         <img alt="LinkedIn" title="Me siga no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a> 
-    <a href="" target="_blank">
-        <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-    </a>
     <a href="https://github.com/LaysllaOreti" target="_blank">
         <img alt="GitHub" title="Me siga no GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
-    <a href="" target="_blank">
+    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
         <img alt="Email" title="Entre em contato" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
 </p>
