@@ -2,7 +2,7 @@
 
 **'Aprendiz em Soluções Digitais'**
 
-Meu nome é Layslla Eduarda Oreti, tenho 18 anos, atualmente moro em Hortolândia, São Paulo, e trabalho na Bosch Campinas no setor da CaP/ETS como **aprendiz de Soluções Digitais**, onde estou tendo a oportunidade de aprofundar meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
+Meu nome é Layslla Eduarda Oreti, tenho 19 anos, atualmente moro em Hortolândia, São Paulo, e trabalho na Bosch Campinas no setor da CaP/ETS como **aprendiz de Soluções Digitais**, onde estou tendo a oportunidade de aprofundar meus conhecimentos na área de tecnologia e desenvolvimento de sistemas.
 
 ### 🏆 Conquistas e Experiência 
 No ano de 2024, tive a honra de concluir o ensino médio integrado ao técnico em Desenvolvimento de Sistemas na ETEC de Hortolândia, onde tive meu primeiro contato com a programação. No meu último ano 
